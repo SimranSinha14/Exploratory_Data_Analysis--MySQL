@@ -7,8 +7,9 @@ This project involves conducting comprehensive Exploratory Data Analysis (EDA) o
   - Trends Over Time: Examined layoffs by year and month to identify patterns and peak layoff periods.
   - Top Companies & Industries: Identified top 5 companies and industries with the highest layoff volumes.
   - Advanced Analysis: Created rolling totals of layoffs, ranked companies by yearly layoffs, and determined timeframes with the highest layoffs.
-##Tools & Technologies
+## Tools & Technologies
   - SQL for querying and analysis
+  - To see the sql query [here](
 ## Project Highlights
   - Uncovered major trends across companies and industries globally.
   - Gained insights into layoff patterns over different time periods.
