@@ -1,4 +1,4 @@
-# Global Layoffs Data - Exploratory Data Analysis (EDA)
+#Global Layoffs Data - Exploratory Data Analysis (EDA)
 ##Overview
 This project involves conducting comprehensive Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL. The goal is to uncover key trends related to layoffs across different companies, industries, countries, and time periods.
 
