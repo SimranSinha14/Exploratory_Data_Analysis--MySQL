@@ -16,5 +16,7 @@ This project involves conducting comprehensive Exploratory Data Analysis (EDA) o
   - Generated rolling total calculations and company rankings based on layoffs.
 
 The go through the Analysis process and the outcome [click here](https://drive.google.com/file/d/1aJK3oxwtFpNGqVgh8LXeqAQQ61jFmWLh/view?usp=sharing)
-How layoff afftected each year 
+
+Total layoff in respective year
+![total layoff](https://github.com/SimranSinha14/Exploratory_Data_Analysis--MySQL/blob/800df6901a7365a60dbcc12e576fc74005cddd05/total%20layoff%20in%20respe%20year.png)
 
