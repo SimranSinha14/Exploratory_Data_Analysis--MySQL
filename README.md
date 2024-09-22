@@ -9,7 +9,7 @@ This project involves conducting comprehensive Exploratory Data Analysis (EDA) o
   - Advanced Analysis: Created rolling totals of layoffs, ranked companies by yearly layoffs, and determined timeframes with the highest layoffs.
 ## Tools & Technologies
   - SQL for querying and analysis
-  - To see the sql query [here](
+  - To see the sql query [here](https://github.com/SimranSinha14/Exploratory_Data_Analysis--MySQL/blob/15b82258c68282a39aaf9082af448f37dbb7507a/Layoff%20EDA.sql)
 ## Project Highlights
   - Uncovered major trends across companies and industries globally.
   - Gained insights into layoff patterns over different time periods.
